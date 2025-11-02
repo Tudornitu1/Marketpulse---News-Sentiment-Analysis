@@ -1,0 +1,61 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.env.*
+.venv/
+venv/
+.venv-backend/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+coverage.xml
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.eggs/
+.mypy_cache/
+
+# Node / frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+package-lock.json
+.next/
+out/
+build/
+.env.local
+.env.*.local
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs, temporary files
+logs/
+*.log
+*.tmp
+
+# Database / dumps / backups
+*.sqlite3
+*.db
+dump/
+*.bak
+
+# Model / cache (optional)
+.huggingface/
+__transformers_cache__/
+.cache/
+
+# Misc
+Thumbs.db
+.DS_Store?
