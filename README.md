@@ -1,6 +1,6 @@
 # MarketPulse
 
-Small full‑stack project that collects market news and stock data, stores them in MongoDB, and serves a frontend (Next.js) that displays the data and performs sentiment analysis.
+Small full‑stack project that collects market news and stock data, stores them in MongoDB, and serves a frontend (Next.js) that displays the data and performs sentiment analysis using FINBERT.
 
 ---
 
